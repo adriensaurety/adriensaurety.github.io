@@ -1,0 +1,11 @@
+name: Timothée Audinet
+markdown: kramdown
+
+author:
+  picture:  Timothee.jpg
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
