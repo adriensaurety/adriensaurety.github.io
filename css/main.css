@@ -1,12 +1,12 @@
 /* Style the body */
 body {
-  font-family: Cambria, Arial, sans-serif;
+  font-family: Helvetica, Calibri, sans-serif;
   margin: 0;
 }
 
 div {
     /* width: 100%; */
-    width: 1360px;
+    width: 1460px;
     text-align: justify;
     margin: 0 auto;
     color:#23373b
@@ -14,9 +14,9 @@ div {
 
 /* Header/logo Title */
 .header {
-  padding: 80px;
+  padding: 100px;
   text-align: center;
-  background: #1abc9c;
+  background: #1abcac;
   color: white;
 }
 
