@@ -1,8 +1,8 @@
-name: Timothée Audinet
+name: Adrien Saurety
 markdown: kramdown
 
 author:
-  picture:  Timothee.jpg
+  picture:  profile.png
 
 defaults:
   - scope:
