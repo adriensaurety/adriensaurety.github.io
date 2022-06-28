@@ -9,7 +9,7 @@ div {
     width: 1460px;
     text-align: justify;
     margin: 0 auto;
-    color:#ffffff
+    color:#000000
 }
 
 /* Header/logo Title */
@@ -101,13 +101,13 @@ padding: 0;
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #444444;
-  color: lightgrey;
+  color: #000000;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #333333;
-  color: grey;
+  color: #ffffff;
 }
 
 /* Column container */
