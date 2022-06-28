@@ -16,8 +16,8 @@ div {
 .header {
   padding: 100px;
   text-align: center;
-  background: #ffffff;
-  color: white;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 /* Increase the font size of the heading */
