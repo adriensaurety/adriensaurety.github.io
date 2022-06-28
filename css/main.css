@@ -34,7 +34,7 @@ div {
 /* Change color on hover */
 .navbar a:hover {
   background-color: #333333;
-  color: grey;
+  color: #ffffff;
 }
 
 /* CV */
@@ -101,7 +101,7 @@ padding: 0;
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #444444;
-  color: #000000;
+  color: #ffffff;
 }
 
 /* Add a color to the active/current link */
