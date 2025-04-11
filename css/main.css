@@ -25,7 +25,17 @@ div {
   font-size: 40px;
 }
 
+.title-section {
+    font-size: 15px;
+}
 
+.body-section {
+    font-size: 11px;
+}
+
+.author-section {
+    font-size: 12px;
+}
 /* Right-aligned link */
 .navbar a.right {
   float: right;
